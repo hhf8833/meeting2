@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+</head>
+<body>
+    <h1>首页</h1>
+    <a th:href="@{/test/testRequestMapping}">测试testRequestMapping注解的位置</a><br>
+    <a th:href="@{/test/testRequestMapping1}">测试testRequestMapping注解value->testRequestMapping1</a><br>
+    <a th:href="@{/test/testRequestMapping2}">测试testRequestMapping注解-->testRequestMapping2</a><br>
+    <form th:action="@{/test/testRequestMapping2}" method="post">
+        <input type="submit" value="注解发起请发起post请求">
+    </form>
+    <a th:href="@{/test/testGetMapping}">测试testGetMapping注解</a><br>
+
+    <a th:href="@{/test/testParamAndHeaders?username='admin'&password=1234}" >测试testParamAndHeaders请求参数</a><br>
+<!--    <a th:href="@{/test/testParamAndHeaders(username='admin',password=1234)}" >测试testParamAndHeaders请求参数</a><br>-->
+
+    <a th:href="@{/test/a1a/testAnt}">测试testAnt注解匹配？</a><br>
+    <a th:href="@{/test/testRest/1}">测试testRest占位符注解匹配？</a><br>
+
+</body>
+</html>

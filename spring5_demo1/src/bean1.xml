@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--配置User对象的创建-->
+    <bean id ="user" class="com.hhf.spring5.User"></bean>
+    <!--set方法注入属性-->
+    <bean id="book" class="com.hhf.spring5.Book">
+        <!--使用property完成属性注入-->
+        <property name="bname" value="三字经"></property>
+        <property name="bauthor" value="孔子"></property>
+<!--        <property name="address">
+            <null/>
+        </property>-->
+        <!--当value中有特殊符号的时候要用CDATA-->
+        <property name="address">
+            <value><![CDATA[<<南京>>]]></value>
+        </property>
+    </bean>
+    <!--有参对象注入属性-->
+    <bean id="orders" class="com.hhf.spring5.Orders">
+        <!--使用constructor-arg完成有参构造注入-->
+        <constructor-arg name="oname" value="abc"></constructor-arg>
+        <constructor-arg name="address" value="1111"></constructor-arg>
+    </bean>
+</beans>

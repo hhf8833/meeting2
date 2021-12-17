@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd">
+    <!--1.扫描service下面的包-->
+    <context:component-scan base-package="com.hhf.service"/>
+
+    <!--2. 将所有的业务类注入spring，可以通过配置或者注解（@Service）,这里通过配置注入-->
+    <bean id="BookServiceImpl" class="com.hhf.service.BookServiceImpl">
+        <!--对应@Autowired-->
+        <property name="bookMapper" ref="bookMapper"/>
+    </bean>
+
+    <!--3.声明事务配置-->
+    <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <!--注入数据源，ref来自spring-dao.xml-->
+        <property name="dataSource" ref="dataSource"/>
+    </bean>
+
+    <!--4.aop事务支持-->
+</beans>
