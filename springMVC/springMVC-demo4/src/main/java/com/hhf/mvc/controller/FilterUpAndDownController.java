@@ -58,6 +58,7 @@ public class FilterUpAndDownController {
         if (!file.exists()){
             file.mkdir();
         }
+        //File.separator  不确定分隔符位\ 或者/则用其代替
         String finalPath = realPath+File.separator+filename;
         photo.transferTo(new File(finalPath));
         return "success";

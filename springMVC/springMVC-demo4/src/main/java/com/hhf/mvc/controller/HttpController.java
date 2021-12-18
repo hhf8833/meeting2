@@ -31,6 +31,7 @@ public class HttpController {
         System.out.println("请求体："+body);
         return "success";
     }
+    //servlet原生版本响应
     @RequestMapping("/testResponse")
     public void testResponse(HttpServletResponse response) throws IOException {
         response.getWriter().println("hello response");
