@@ -15,7 +15,8 @@ import org.junit.jupiter.api.Test;
  *            2) true (nums[i]==j)
  *            3) dp[i-1][j-nums[i]] (nums[i]<==>j)
  *
- * 优化：，当前行总是参考了它上面一行 「头顶上」 那个位置和「左上角」某个位置的值。因此，我们可以只开一个一维数组，从后向前依次填表即可，前面的都是上一行留下的
+ * 优化：，当前行总是参考了它上面一行 「头顶上」 那个位置和「左上角」某个位置的值。
+ * 因此，我们可以只开一个一维数组，从后向前依次填表即可，前面的都是上一行留下的
  */
 public class No_416_canPartition{
     public static boolean canPartition(int[] nums) {
