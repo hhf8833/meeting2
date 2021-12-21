@@ -69,7 +69,7 @@ public class No_438_findAnagrams {
         }
         return res;
     }
-
+//  滑动窗口
     public List<Integer> findAnagrams2(String s, String p) {
         int lens = s.length(),lenp = p.length();
         if (lenp>lens){
@@ -87,7 +87,7 @@ public class No_438_findAnagrams {
             sCnt[curRight]++;
             //这里sCnt[curRight] > pCnt[curRight]
             // 大于成立即s字符串中当前Right对应的字符（在数组中用curRight表示），
-            // 1.在s中有但在p中没有，该情况对应的窗口是没有的异位词的，因此要不断地收缩s的左边界直至窗口为0，即直到重合left和right重合
+            // 1.在s中有但在p中没有，该情况对应的窗口是没有的异位词的，因此要不断地收缩s的左边界直至窗口为0，即直到left和right重合
             // 2.又或者该位置字符在s中重复了,要不断地收缩s的左边界可能直至窗口为0，也可能只收缩一点点就又符合了
             while (sCnt[curRight]>pCnt[curRight]){
                 int curLeft = s.charAt(left)-'a';

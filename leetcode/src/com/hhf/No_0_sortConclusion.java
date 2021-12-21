@@ -66,7 +66,7 @@ public class No_0_sortConclusion {
         int mid =(left+right)/2;
         mergeSort(array,left,mid,newArray);
         mergeSort(array,mid+1,right,newArray);
-        //将数据先复制到新数组里面，方便对老数组进行修改
+        //将数据先复制到新数组里面，方便对老数组进行修改,这里的newArray是和array一样，局部排序
         for (int i = left; i <=right ; i++) {
             newArray[i]=array[i];
         }
