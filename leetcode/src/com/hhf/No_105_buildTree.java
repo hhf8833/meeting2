@@ -18,6 +18,7 @@ public class No_105_buildTree {
         if ((preorder.length != inorder.length) || (preorder.length == 0)){
             return null;
         }
+
         map =new HashMap<>();
         for (int i = 0; i < inorder.length; i++) {
             map.put(inorder[i],i);

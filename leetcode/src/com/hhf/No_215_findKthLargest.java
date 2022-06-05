@@ -1,5 +1,6 @@
 package com.hhf;
 
+import java.util.Arrays;
 import java.util.PriorityQueue;
 import java.util.Random;
 
@@ -19,7 +20,7 @@ import java.util.Random;
  *  维护一个k值大小的最小堆，当堆顶比新遍历的元素大，则下一个，小的话就将该元素加入堆中，如果堆满则要删去堆顶
  */
 public class No_215_findKthLargest {
-    private static Random random = new Random(System.currentTimeMillis());
+   // private static Random random = new Random(System.currentTimeMillis());
     public int findKthLargest(int[] nums, int k) {
         int n = nums.length;
         int resIndex = n-k;
@@ -34,6 +35,7 @@ public class No_215_findKthLargest {
             }else {
                 end = index-1;
             }
+//            int[] ints = Arrays.copyOf(nums, k);
         }
     }
     public int partition(int[] nums , int start ,int end ){

@@ -12,6 +12,7 @@ package com.hhf;
  * 这里难就难在返回的时候和最大值不同都表达的是什么意思
  */
 public class No_124_maxPathSum {
+
     int maxValue = Integer.MIN_VALUE;
     public int maxPathSum(TreeNode root) {
         if (root ==null){

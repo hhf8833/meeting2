@@ -1,9 +1,6 @@
 package com.hhf;
 
-import java.util.ArrayDeque;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Queue;
+import java.util.*;
 
 public class No_102_LevelOrder {
     public List<List<Integer>> levelOrder(TreeNode root) {
@@ -32,4 +29,5 @@ public class No_102_LevelOrder {
         }
         return lists;
     }
+
 }

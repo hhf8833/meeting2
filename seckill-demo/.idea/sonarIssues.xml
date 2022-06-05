@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ipfs/src/main/java/P2PService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_0_Singleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_0_TreeCommonAncester.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_0_sortConclusion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_105_buildTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_146_LRUCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_146_LRUCache/LRUCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_155_MinStack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_155_MinStack/MinStack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_155_MinStack/No_155_MinStack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_208_Trie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_208_Trie/No_208_Trie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_208_Trie/Trie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_297_Codec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_297_Codec/Codec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_297_Codec/No_297_Codec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_347_topKFrequent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_51_solveNQueens.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_85_maximalRectangle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_85_maximalRectangle/No_85_maximalRectangle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_85_maximalRectangle/maximalRectangleTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_969_pancakeSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_96_numTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_96_numTree/No_96_numTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_96_numTree/numTreeTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_98_isValidBST.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_98_isValidBST/IsValidBSTTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/No_98_isValidBST/No_98_isValidBST.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/backtrack/No_37_solveSudoku.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/backtrack/No_752_openLock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/backtrack/No_773_slidingPuzzle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/offer/RandomFind.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/offer/Test2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/offer/ali/No_2021FourStar_5.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/user/UserAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/user/UserInfoModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/user/UserModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-core/src/main/java/com/stylefeng/guns/core/constant/RedisConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/common/CurrentUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/Client.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/controller/AuthController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/filter/AuthFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/example/ExampleController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/user/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/user/UserImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/vo/ResponseVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-user/src/main/java/com/stylefeng/guns/rest/common/persistence/model/MoocUserT.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/user/UserImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/user/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../school-bus/school-bus/guns-gateway/src/main/java/com/stylefeng/guns/rest/config/RedisConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-study/boot-04-admin/src/main/java/com/hhf/admin/controller/IndexController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -76,22 +76,21 @@ public class No_438_findAnagrams {
             return new ArrayList<>();
         }
         List<Integer> res = new ArrayList<>();
-        int[] sCnt = new int[26];
-        int[] pCnt = new int[26];
+        int[] needArr = new int[26];
+
         for (int i = 0; i < lenp; i++) {
-            pCnt[p.charAt(i)-'a']++;
+            needArr[p.charAt(i)-'a']++;
         }
         int left =0;
         for (int right = 0; right < lens; right++) {
             int curRight = s.charAt(right)-'a';
-            sCnt[curRight]++;
+            needArr[curRight]--;
             //这里sCnt[curRight] > pCnt[curRight]
             // 大于成立即s字符串中当前Right对应的字符（在数组中用curRight表示），
             // 1.在s中有但在p中没有，该情况对应的窗口是没有的异位词的，因此要不断地收缩s的左边界直至窗口为0，即直到left和right重合
             // 2.又或者该位置字符在s中重复了,要不断地收缩s的左边界可能直至窗口为0，也可能只收缩一点点就又符合了
-            while (sCnt[curRight]>pCnt[curRight]){
-                int curLeft = s.charAt(left)-'a';
-                sCnt[curLeft]--;
+            while (needArr[s.charAt(right)-'a']<0){
+                needArr[s.charAt(left)-'a']++;
                 left++;
             }
             if (right-left+1==lenp){

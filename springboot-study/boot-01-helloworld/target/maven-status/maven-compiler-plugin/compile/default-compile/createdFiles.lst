@@ -1,0 +1,5 @@
+com\hhf\boot\controller\HelloController.class
+com\hhf\boot\MainApplication.class
+com\hhf\boot\config\MyConfig.class
+com\hhf\boot\bean\Car.class
+com\hhf\boot\bean\User.class

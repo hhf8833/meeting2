@@ -10,14 +10,15 @@ package com.hhf;
  *
  *
  * 法一，逐行二分查找
- * 法二：类似于二分查找树，当前节点左边逐步变小，往右逐步变大
+ * 法二：类似于二分查找树(二叉排序树)，当前节点左边逐步变小，往右逐步变大
  *       这里二维数组向左逐步变小，向下逐步变大
  */
 public class No_240_searchMatrix {
     public boolean searchMatrix(int[][] matrix, int target) {
+
         int n = matrix.length;
-        int col = matrix[0].length -1 ;
-        int row = 0;
+        int col = matrix[0].length -1 ;//列
+        int row = 0;//行
         while (col>=0){
             if (target<matrix[row][col]){
                 col--;

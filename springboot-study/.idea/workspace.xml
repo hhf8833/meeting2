@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3ca49f9-1297-48f3-bd3e-a7bdbd4d150b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC-study/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC-study/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC-study/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC-study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC-study/JUC-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC-study/juc-study01/juc-study01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUC-study/juc-study01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_0_JiOuPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_0_Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_0_UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_3_lengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_460_LFU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_51_solveNQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_560_1_takeCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_567_checkInclusion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_56_merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_621_leastInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_647_countSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_698_canPartitionKSubsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_72_minDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_739_dailyTemperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/backtrack/No_130_solve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/backtrack/No_22_generateParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/backtrack/No_301_removeInvalidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/backtrack/No_698_canPartitionKSubsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/backtrack/pailiezuhe/No_47_permuteUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/bingChaJi/No_323_countComponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/No_139_wordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/No_279_numSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/No_300_lengthOfLIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/No_312_maxCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/No_354_maxEnvelopes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/No_95_generateTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/erweiarray/No_72_minDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/erweiarray/offer2_095_longestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/pakage/No_322_coinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/pakage/No_416_canPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/pakage/No_494_findTargetSumWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/pakage/ZeroOnePakage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/tanxin/No_1024_videoStitching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/tanxin/No_134_canCompleteCircuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/tanxin/No_435_eraseOverlapIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/dp/归纳.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/erfenfa/Minborder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/erfenfa/No_1011_shipWithinDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/erfenfa/No_287_findDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/erfenfa/No_857_minEatingSpeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/qianzhuihe/No_437_pathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/qianzhuihe/No_560_1_takeCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/qianzhuihe/No_560_subarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/qianzhuihe/meituan1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/windows/No_3_lengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/windows/No_438_findAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/windows/No_567_checkInclusion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/classification/windows/No_76_minWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/images/621.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/offer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/offer/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/offer/No09_CQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/offer/No10_fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/offer/No_04_findNumberIn2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/offer/No_07_buildTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/offer/No_38_permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/offer/No_50_firstUniqChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/offer/No_56_singleNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/offer/No_59_MaxQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/offer/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/offer/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/offer/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/offer/ali/No_2021FourStar_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/offer/ali/No_2021FourStar_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/com/offer/ali/No_2021FourStar_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Maven__junit_junit_4_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Maven__org_mybatis_mybatis_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Maven__org_projectlombok_lombok_1_18_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-multichat/src/main/java/com/hhf/nettymultichat/netty/chat/ChatServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-multichat/src/main/java/com/hhf/nettymultichat/netty/chat/ChatServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-multichat/src/main/java/com/hhf/nettymultichat/netty/chat/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-multichat/src/main/java/com/hhf/nettymultichat/netty/chat/WebSocketHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-multichat/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-multichat/src/main/resources/resources/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/NettyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/NettyClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/NettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/NettyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/buf/NettyByteBuf01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/buf/NettyByteBuf02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/groupchat/GroupChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/groupchat/GroupChatClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/groupchat/GroupChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/groupchat/GroupChatServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/groupchat/Utils/DataUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/heartbeat/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/heartbeat/MyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/http/TestHttpServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/http/TestServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/http/TestServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/websocket/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/websocket/MyTextWebSocketFrameHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/netty/websocket/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/nio/groupchat/GroupChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/nio/groupchat/GroupChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/easyCodeTableSetting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__io_lettuce_lettuce_core_6_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__io_netty_netty_buffer_4_1_72_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__io_netty_netty_codec_4_1_72_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__io_netty_netty_common_4_1_72_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__io_netty_netty_handler_4_1_72_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__io_netty_netty_resolver_4_1_72_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__io_netty_netty_tcnative_classes_2_0_46_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__io_netty_netty_transport_4_1_72_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/libraries/Maven__org_springframework_spring_oxm_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/generator/generator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/generator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/generator/src/main/java/com/hhf/generator/GeneratorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/generator/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/generator/src/test/java/com/hhf/generator/GeneratorApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/generator/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/generator/target/test-classes/com/hhf/generator/GeneratorApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/seckill-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/SeckillDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/config/UserArgumentResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/controller/GoodsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/controller/SeckillGoodsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/controller/SeckillOrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/exception/GlobalException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/inteceptor/UserInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/mapper/GoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/mapper/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/mapper/SeckillGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/mapper/SeckillOrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/pojo/DetailVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/pojo/GoodVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/pojo/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/pojo/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/pojo/SeckillGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/pojo/SeckillOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/service/impl/GoodsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/service/impl/SeckillGoodsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/service/impl/SeckillOrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/utils/CookieUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/utils/UUIDUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/utils/UserUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/utils/ValidatorUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/validator/IsMobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/vo/IsMoblieValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/java/com/hhf/seckilldemo/vo/LoginVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/resources/mapper/GoodsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/resources/mapper/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/resources/mapper/SeckillGoodsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/resources/mapper/SeckillOrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/resources/templates/goodsDetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/main/resources/templates/goodsList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/src/test/java/com/hhf/seckilldemo/SeckillDemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/SeckillDemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/config/RedisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/config/UserArgumentResolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/config/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/controller/DemoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/inteceptor/UserInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/service/IUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/utils/MD5Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/utils/ValidatorUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/vo/LoginVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/vo/RespBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/com/hhf/seckilldemo/vo/RespBeanEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/img/iphone12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/img/iphone12pro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/jquery-validation/additional-methods.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/jquery-validation/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/jquery-validation/localization/messages_zh.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/js/md5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/layer/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/layer/mobile/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/layer/mobile/need/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/layer/skin/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/layer/skin/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/layer/skin/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/layer/skin/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/layer/skin/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/static/layer/skin/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/templates/goodsDetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/classes/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/seckill-demo-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/seckill-demo-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/surefire-reports/TEST-com.hhf.seckilldemo.SeckillDemoApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/surefire-reports/com.hhf.seckilldemo.SeckillDemoApplicationTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seckill-demo/target/test-classes/com/hhf/seckilldemo/SeckillDemoApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-blogs/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-blogs/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-blogs/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-blogs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-blogs/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-blogs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-blogs/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-blogs/blogs-admin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-blogs/blogs-framework/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-blogs/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7354dab5-dc1b-4225-a9f8-b7e6662db413.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7354dab5-dc1b-4225-a9f8-b7e6662db413/entities/entities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7354dab5-dc1b-4225-a9f8-b7e6662db413/entities/entities.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7354dab5-dc1b-4225-a9f8-b7e6662db413/entities/entities.dat.values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7354dab5-dc1b-4225-a9f8-b7e6662db413/entities/entities.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7354dab5-dc1b-4225-a9f8-b7e6662db413/entities/entities.dat.values.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7354dab5-dc1b-4225-a9f8-b7e6662db413/entities/entities.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7354dab5-dc1b-4225-a9f8-b7e6662db413/entities/entities.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7354dab5-dc1b-4225-a9f8-b7e6662db413/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7354dab5-dc1b-4225-a9f8-b7e6662db413/storage_v2/_src_/schema/information_schema.FNRwLQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7354dab5-dc1b-4225-a9f8-b7e6662db413/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7354dab5-dc1b-4225-a9f8-b7e6662db413/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7354dab5-dc1b-4225-a9f8-b7e6662db413/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-01-helloworld/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-01-helloworld/target/boot-01-helloworld-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-01-helloworld/target/boot-01-helloworld-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-01-helloworld/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-01-helloworld/target/classes/com/hhf/boot/MainApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-01-helloworld/target/classes/com/hhf/boot/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-01-helloworld/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-01-helloworld/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-01-helloworld/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-01-helloworld/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-01-helloworld/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-03-web-01/target/classes/abc/aaaa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-03-web-01/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-03-web-01/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-03-web-01/target/classes/com/hhf/boot/Boot03Web01Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-03-web-01/target/classes/com/hhf/boot/controller/mycontroller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-03-web-01/target/classes/resources/aaaaaa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-03-web-01/target/classes/static/aaaaa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-03-web-01/target/test-classes/com/hhf/boot/Boot03Web01ApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-03_1-web-01/src/main/java/com/hhf/boot/controller/RequestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-03_1-web-01/src/main/java/com/hhf/boot/converter/GuiguMessageConvertr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-03_1-web-01/src/main/resources/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/java/com/hhf/admin/Boot04AdminApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/java/com/hhf/admin/bean/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/java/com/hhf/admin/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/java/com/hhf/admin/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/java/com/hhf/admin/mapper/AccountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/mybatis/mapper/AccoutMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/css/bootstrap-fileupload.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/css/bootstrap-reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/css/clndr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/css/jquery-ui-1.10.3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/css/jquery.stepy.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/css/style-responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/css/table-responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/fonts/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/fonts/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/404-error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/500-error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/avatar-mini.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/blog/blog-avatar-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/blog/blog-avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/blog/blog-sm-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/blog/blog-thumb-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/blog/blog-thumb-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/blog/blog-thumb-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/blog/blog-wide-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/blog/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/blog/image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/details_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/gallery/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/gallery/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/gallery/image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/gallery/image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/gallery/image5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/gallery/sm-img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/gallery/sm-img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/gallery/sm-img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/input-spinner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/invoice-logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/lockscreen-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/login-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/login-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/logo_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/photos/user-avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/photos/user1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/photos/user2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/photos/user3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/photos/user4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/photos/user5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/plus-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/images/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/advanced-datatable/css/demo_page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/advanced-datatable/css/demo_table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/advanced-datatable/js/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-colorpicker/css/colorpicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-colorpicker/img/alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-colorpicker/img/saturation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-colorpicker/js/bootstrap-colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-datepicker/css/datepicker-custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-datepicker/js/bootstrap-datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-daterangepicker/daterangepicker-bs3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-daterangepicker/daterangepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-daterangepicker/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-datetimepicker/css/datetimepicker-custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-datetimepicker/js/bootstrap-datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-fileupload.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-inputmask/bootstrap-inputmask.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-timepicker/css/timepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-timepicker/js/bootstrap-timepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-wysihtml5/bootstrap-wysihtml5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-wysihtml5/bootstrap-wysihtml5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-wysihtml5/wysihtml5-0.3.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap-wysihtml5/wysiwyg-color.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/c3-chart/c3-chart.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/c3-chart/c3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/c3-chart/c3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/calendar/clndr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/calendar/evnt.calendar.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/calendar/moment-2.2.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/chart-js/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/chart-js/chartjs.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/ckeditor/ckeditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/ckeditor/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/ckeditor/contents.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/ckeditor/lang/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/ckeditor/plugins/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/ckeditor/skins/moono/editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/ckeditor/skins/moono/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/ckeditor/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/dashboard-chart-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/data-tables/DT_bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/data-tables/DT_bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/data-tables/images/sort_asc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/data-tables/images/sort_both.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/data-tables/images/sort_desc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/data-tables/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/dropzone/css/dropzone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/dropzone/dropzone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/dropzone/images/spritemap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/dynamic_table_init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/easypiechart/easypiechart-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/easypiechart/jquery.easypiechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/editable-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/external-dragging-calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/flot-chart/jquery.flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/flot-chart/jquery.flot.pie.resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/flot-chart/jquery.flot.resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/flot-chart/jquery.flot.selection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/flot-chart/jquery.flot.stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/flot-chart/jquery.flot.time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/flot-chart/jquery.flot.tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/flot.chart.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/fuelux/css/tree-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/fuelux/img/tree-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/fuelux/js/spinner.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/fuelux/js/tree.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/fullcalendar/bootstrap-fullcalendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/fullcalendar/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/google-map/gmaps-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/google-map/gmaps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/gritter/css/jquery.gritter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/gritter/js/gritter-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/gritter/js/jquery.gritter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/jquery.icheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/flat/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/flat/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/flat/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/flat/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/flat/grey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/flat/grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/flat/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/flat/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/flat/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/flat/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/flat/yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/flat/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/minimal/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/minimal/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/minimal/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/minimal/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/minimal/minimal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/minimal/minimal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/minimal/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/minimal/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/minimal/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/minimal/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/minimal/yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/minimal/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/square/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/square/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/square/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/square/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/square/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/square/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/square/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/square/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/square/square.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/square/square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/square/yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/iCheck/skins/square/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/icheck-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/ion.rangeSlider-1.8.2/css/ion.rangeSlider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/ion.rangeSlider-1.8.2/css/ion.rangeSlider.skinFlat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/ion.rangeSlider-1.8.2/img/sprite-skin-flat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/ion.rangeSlider-1.8.2/js/ion-rangeSlider/ion.rangeSlider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/ios-switch/ios-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/ios-switch/switchery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/ios-switch/switchery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jquery-migrate-1.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jquery-multi-select/css/multi-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jquery-multi-select/img/switch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jquery-multi-select/js/jquery.multi-select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jquery-multi-select/js/jquery.quicksearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jquery-tags-input/jquery.tagsinput.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jquery-tags-input/jquery.tagsinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jquery-ui-1.9.2.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jquery.isotope.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jquery.nicescroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jquery.stepy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jvector-map/jqvmap/data/jquery.vmap.sampledata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jvector-map/jqvmap/jquery.vmap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jvector-map/jqvmap/maps/continents/jquery.vmap.asia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jvector-map/jqvmap/maps/continents/jquery.vmap.australia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jvector-map/jqvmap/maps/continents/jquery.vmap.europe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/jvector-map/jqvmap/maps/jquery.vmap.world.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/modernizr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/morris-chart/morris.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/morris-chart/morris.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/morris-chart/morris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/morris-chart/raphael-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/multi-select-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/nestable-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/nestable/jquery.nestable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/nestable/jquery.nestable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/pickers-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/sparkline/jquery.sparkline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/sparkline/sparkline-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/spinner-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/tagsinput-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/tree-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/static/js/validation-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/main/resources/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-04-admin/src/test/java/com/hhf/admin/Boot04AdminApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-05-empty/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-05-empty/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-05-empty/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-05-empty/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-05-empty/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-05-empty/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-05-empty/src/main/java/com/hhf/boot/Boot05EmptyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-05-empty/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-05-empty/src/test/java/com/hhf/boot/Boot05EmptyApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_0_sortConclusion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_0_sortConclusion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_102_LevelOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_102_LevelOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_124_maxPathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_124_maxPathSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_139_wordBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_139_wordBreak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_146_LRUCache/LRUCache$DLinkedNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_146_LRUCache/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_146_LRUCache/LRUCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_215_findKthLargest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_215_findKthLargest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_236_lowestCommonAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_236_lowestCommonAncestor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_239_maxSlidingWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_239_maxSlidingWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_240_searchMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_240_searchMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_297_Codec/Codec.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_297_Codec/Codec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_312_maxCoins.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_312_maxCoins.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_337_rob.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_337_rob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_347_topKFrequent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_347_topKFrequent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_437_pathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_437_pathSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_438_findAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_438_findAnagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_76_minWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_76_minWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_84_largestRectangleArea/_84_largestRectangleArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_84_largestRectangleArea/_84_largestRectangleArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_96_numTree/numTreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_96_numTree/numTreeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_98_isValidBST/IsValidBSTTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/No_98_isValidBST/IsValidBSTTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/com/hhf/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_0_sortConclusion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_0_sortConclusion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_102_LevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_102_LevelOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_124_maxPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_124_maxPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_139_wordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_139_wordBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_146_LRUCache/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_146_LRUCache/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_198_rob.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_198_rob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_215_findKthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_215_findKthLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_236_lowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_236_lowestCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_239_maxSlidingWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_239_maxSlidingWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_240_searchMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_240_searchMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_297_Codec/Codec.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_297_Codec/Codec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_312_maxCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_312_maxCoins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_337_rob.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_337_rob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_347_topKFrequent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_347_topKFrequent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_437_pathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_437_pathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_438_findAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_438_findAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_560_subarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_560_subarraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_76_minWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_76_minWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_84_largestRectangleArea/_84_largestRectangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_84_largestRectangleArea/_84_largestRectangleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_96_numTree/numTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_96_numTree/numTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_98_isValidBST/IsValidBSTTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/com/hhf/No_98_isValidBST/IsValidBSTTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/mybatis-study" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/mybatis-study" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netty-study/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../netty-study/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netty-study/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../netty-study/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netty-study/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../netty-study/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netty-study/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../netty-study/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netty-study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../netty-study/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netty-study/netty-study01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../netty-study/netty-study01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/nio/NIOClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../netty-study/netty-study01/src/main/java/com/hhf/nio/NIOClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/test/leetcode/No_438_findAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/test/leetcode/No_438_findAnagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/test/proxytest/ProxyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/test/proxytest/ProxyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/proxytest/ProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/proxytest/ProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssmbuild/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssmbuild/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../maven/Localwarehouse/com/baomidou/mybatis-plus-boot-starter/3.5.0/mybatis-plus-boot-starter-3.5.0-sources.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="232b82n6m4nnJLw1WpzhHt8IwYO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../学校/书籍/demo/socket-master" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Javaproject\springboot-study\boot-04-admin\src\main\resources" />
+      <recent name="D:\Javaproject\springboot-study\boot-04-admin\src\main\resources\templates\error" />
+      <recent name="D:\Javaproject\springboot-study\boot-04-admin\src\main\resources\templates\form" />
+      <recent name="D:\Javaproject\springboot-study\boot-04-admin\src\main\resources\templates\table" />
+      <recent name="D:\Javaproject\springboot-study\boot-04-admin\src\main\resources\templates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hhf.boot.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Boot04AdminApplication">
+    <configuration name="Boot04AdminApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="boot-04-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hhf.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hhf.admin" />
+      <option name="MAIN_CLASS_NAME" value="com.hhf.admin.Boot04AdminApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-02.1-helloworld2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hhf.boot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-02.1-helloworld2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hhf.boot02_1helloworld2.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boot02Helloworld2Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="boot-02-helloworld2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hhf.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hhf.boot.Boot02Helloworld2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boot02Helloworld2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-02-helloworld2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hhf.boot02helloworld2.Boot02Helloworld2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boot031Web01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-03_1-web-01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hhf.boot.Boot031Web01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boot03Web01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-03-web-01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hhf.boot.Boot03Web01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boot04AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-04-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hhf.admin.Boot04AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boot05EmptyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-05-empty" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hhf.boot.Boot05EmptyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="boot-01-helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hhf.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hhf.boot.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Boot04AdminApplicationTests.test" />
+        <item itemvalue="Spring Boot.Boot02Helloworld2Application (1)" />
+        <item itemvalue="Spring Boot.MainApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3ca49f9-1297-48f3-bd3e-a7bdbd4d150b" name="Changes" comment="" />
+      <created>1640934967116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640934967116</updated>
+      <workItem from="1640934968323" duration="4138000" />
+      <workItem from="1640939158920" duration="15021000" />
+      <workItem from="1641286292899" duration="1388000" />
+      <workItem from="1641288093589" duration="9137000" />
+      <workItem from="1641471585912" duration="8404000" />
+      <workItem from="1641541628376" duration="34901000" />
+      <workItem from="1641894225885" duration="5163000" />
+      <workItem from="1641963451238" duration="23558000" />
+      <workItem from="1642148823033" duration="888000" />
+      <workItem from="1642228114508" duration="6987000" />
+      <workItem from="1642408807980" duration="10330000" />
+      <workItem from="1642490067999" duration="6479000" />
+      <workItem from="1644825693905" duration="2882000" />
+      <workItem from="1644829341533" duration="2241000" />
+      <workItem from="1644831647706" duration="3533000" />
+      <workItem from="1644913762530" duration="15626000" />
+      <workItem from="1646101687179" duration="74000" />
+      <workItem from="1646101812198" duration="1474000" />
+      <workItem from="1646994614085" duration="405000" />
+      <workItem from="1646995041423" duration="1793000" />
+      <workItem from="1648869696646" duration="1688000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-webmvc/5.3.14/spring-webmvc-5.3.14.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class</url>
+          <line>57</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-webmvc/5.3.14/spring-webmvc-5.3.14.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class</url>
+          <line>56</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-web/5.3.14/spring-web-5.3.14.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class</url>
+          <line>59</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-web/5.3.14/spring-web-5.3.14.jar!/org/springframework/web/method/support/HandlerMethodArgumentResolverComposite.class</url>
+          <line>76</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/boot-03_1-web-01/src/main/java/com/hhf/boot/controller/RequestHandler.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-web/5.3.14/spring-web-5.3.14.jar!/org/springframework/web/method/support/HandlerMethodArgumentResolverComposite.class</url>
+          <line>78</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-webmvc/5.3.14/spring-webmvc-5.3.14.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>538</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-web/5.3.14/spring-web-5.3.14.jar!/org/springframework/web/method/support/HandlerMethodArgumentResolverComposite.class</url>
+          <line>84</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/boot-03_1-web-01/src/main/java/com/hhf/boot/controller/RequestHandler.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-webmvc/5.3.14/spring-webmvc-5.3.14.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class</url>
+          <line>486</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-webmvc/5.3.14/spring-webmvc-5.3.14.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class</url>
+          <line>475</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-webmvc/5.3.14/spring-webmvc-5.3.14.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class</url>
+          <line>519</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-webmvc/5.3.14/spring-webmvc-5.3.14.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class</url>
+          <line>523</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-web/5.3.14/spring-web-5.3.14.jar!/org/springframework/web/method/support/HandlerMethodReturnValueHandlerComposite.class</url>
+          <line>66</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-web/5.3.14/spring-web-5.3.14.jar!/org/springframework/web/method/support/HandlerMethodReturnValueHandlerComposite.class</url>
+          <line>50</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-webmvc/5.3.14/spring-webmvc-5.3.14.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestResponseBodyMethodProcessor.class</url>
+          <line>100</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-webmvc/5.3.14/spring-webmvc-5.3.14.jar!/org/springframework/web/servlet/mvc/method/annotation/AbstractMessageConverterMethodProcessor.class</url>
+          <line>119</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-webmvc/5.3.14/spring-webmvc-5.3.14.jar!/org/springframework/web/servlet/mvc/method/annotation/AbstractMessageConverterMethodProcessor.class</url>
+          <line>208</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../maven/Localwarehouse/org/springframework/spring-webmvc/5.3.14/spring-webmvc-5.3.14.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>505</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

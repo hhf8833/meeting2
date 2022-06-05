@@ -1,0 +1,6 @@
+#spring:
+ # mvc:
+    #static-path-pattern: /res/** #默认无前缀,在web访问的时候必须在前面加上自己规定的res，才能过滤到静态资源
+  #web:
+ # resources:
+    #static-locations: [classpath:/abc/]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/alipay/demo/trade/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/zfbinfo.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-alipay/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-alipay/src/main/java/com/stylefeng/guns/rest/modular/alipay/service/impl/DefaultAlipayServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/BaiduNetdiskDownload/打造仿猫眼项目 以Dubbo为核心解锁微服务视频教程/猫眼资料/coding-273/源码/支付模块/guns/guns-gateway/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/BaiduNetdiskDownload/打造仿猫眼项目 以Dubbo为核心解锁微服务视频教程/猫眼资料/coding-273/源码/支付模块/guns/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

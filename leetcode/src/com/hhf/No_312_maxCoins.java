@@ -15,6 +15,8 @@ package com.hhf;
  * 同时在区间l内也即（i，j）范围内，可以任意选择爆破点，不断求出哪个爆破点的值是最大的
  * 这里要注意：需要在两端加上两个虚拟的值为1的节点，方便计算
  * https://www.bilibili.com/video/BV1Cb4y1r7P1?p=2&spm_id_from=pageDriver
+ *
+ * 戳破（i，j）开区间内气球能够获得的最大金币
  */
 public class No_312_maxCoins {
     public int maxCoins(int[] nums) {
@@ -26,16 +28,18 @@ public class No_312_maxCoins {
             newNums[i]=nums[i-1];
         }
         int[][] dp = new int[n+2][n+2];
-        for (int l = 1; l <= n; l++) {
-            //这里注意j的大小肯定是要小于等于n，所以l+i-1也是小于等于n的，从而i<=n-l+1
-            for (int i = 1; i <=n-l+1; i++) {
+        //第一层代表区间i到j的区间大小可以是从3到n+2
+        for (int l = 3; l <= n+2; l++) {
+            //第二层表示是i可以走的范围
+            for (int i = 0; i <=n+2-l; i++) {
                 int j = l+i-1;
-                //选择爆破点从 i->j
-                for (int k = i; k <=j ; k++) {
-                    dp[i][j] = Math.max(dp[i][j],dp[i][k-1]+dp[k+1][j]+newNums[i-1]*newNums[k]*newNums[j+1]);
+                //选择爆破点从 i->j，因为开区间所以K从i+1到j-1
+                for (int k = i+1; k <j ; k++) {
+                    //dp[i][k]+dp[k][j] 代表的都是开区间
+                    dp[i][j] = Math.max(dp[i][j],dp[i][k]+dp[k][j]+newNums[i]*newNums[k]*newNums[j]);
                 }
             }
         }
-        return dp[1][n];
+        return dp[0][n+1];
     }
 }

@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ipfs/src/main/java/Entrance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ipfs/src/main/java/P2PServerHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ipfs/src/main/java/P2PService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ipfs/src/main/java/WebServerHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alipayDemo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alipayDemo/src/main/java/com/alipay/demo/trade/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../alipayDemo/src/main/resources/zfbinfo.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/demo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/demo/src/main/java/com/hhf/demo/Bloom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No15_threeSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_0_BlockingQueueTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_0_JiOuPrint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_0_ScheduledTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_0_Singleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_0_TEKV.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_0_TreeCommonAncester.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_0_UF.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_0_YEKV.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_0_sortConclusion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_105_buildTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_139_wordBreak.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_146_LRUCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_146_LRUCache/LRUCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_155_MinStack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_155_MinStack/MinStack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_155_MinStack/No_155_MinStack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_15_threeSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_208_Trie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_208_Trie/No_208_Trie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_208_Trie/Trie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_25_reverseKGroup.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_297_Codec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_297_Codec/Codec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_297_Codec/No_297_Codec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_347_topKFrequent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_42_trap.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_43_multiply.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_460_LFU.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_51_solveNQueens.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_652_findDuplicateSubtrees.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_763_partitionLabels.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_85_maximalRectangle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_85_maximalRectangle/No_85_maximalRectangle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_85_maximalRectangle/maximalRectangleTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_969_pancakeSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_96_numTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_96_numTree/No_96_numTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_96_numTree/numTreeTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_98_isValidBST.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_98_isValidBST/IsValidBSTTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/No_98_isValidBST/No_98_isValidBST.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/backtrack/BFS.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/backtrack/No_37_solveSudoku.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/backtrack/No_752_openLock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/backtrack/No_773_slidingPuzzle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/backtrack/No_9/_restoreIpAddresses.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/backtrack/No_93_restoreIpAddresses.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/backtrack/bfs/No_1091_shortestPathBinaryMatrix.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/backtrack/bfs/No_127_ladderLength.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/backtrack/dfs/No_417_pacificAtlantic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/backtrack/pailiezuhe/No_39_combinationSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/backtrack/pailiezuhe/No_46_permute.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/backtrack/pailiezuhe/No_77_combine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/backtrack/pailiezuhe/No_78_subsets.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/backtrack/pailiezuhe/No_90_subsetsWithDup.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/backtrack/pailiezuhe/归纳.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/dp/No_139_wordBreak.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/dp/No_354_maxEnvelopes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/dp/erweiarray/No_174_calculateMinimumHP.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/dp/erweiarray/No_514_findRotateSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/dp/erweiarray/No_516_longestPalindromeSubseq.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/dp/erweiarray/offer2_095_longestCommonSubsequence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/dp/pakage/No_322_coinChange.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/erfenfa/MinRight.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/erfenfa/Minborder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/erfenfa/No_1011_shipWithinDays.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/erfenfa/No_857_minEatingSpeed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/classification/windows/Offer59_maxSlidingWindow.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/hhf/proxytest/ProxyTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/offer/NNN.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/offer/No_38_permutation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/offer/RandomFind.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/offer/Tes2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/offer/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/offer/Test2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/offer/Test3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/offer/Test4.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/offer/ali/No_2021FourStar_3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/offer/ali/No_2021FourStar_4.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/offer/ali/No_2021FourStar_5.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/impl/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-admin/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-alipay/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-alipay/src/main/java/com/stylefeng/guns/rest/CinemaApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-alipay/src/main/java/com/stylefeng/guns/rest/GunsRestServletInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-alipay/src/main/java/com/stylefeng/guns/rest/common/util/FTPUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-alipay/src/main/java/com/stylefeng/guns/rest/modular/alipay/config/Configs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-alipay/src/main/java/com/stylefeng/guns/rest/modular/alipay/model/builder/AlipayHeartbeatSynRequestBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-alipay/src/main/java/com/stylefeng/guns/rest/modular/alipay/service/impl/AbsAlipayService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-alipay/src/main/java/com/stylefeng/guns/rest/modular/alipay/service/impl/AlipayTradeServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-alipay/src/main/java/com/stylefeng/guns/rest/modular/alipay/service/impl/DefaultAlipayServiceAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-alipay/src/main/java/com/stylefeng/guns/rest/modular/alipay/service/impl/DefaultAlipayServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-alipay/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-alipay/src/main/resources/zfbinfo.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-alipay/src/test/java/com/stylefeng/guns/GunsRestApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/alipay/AliPayServerAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/alipay/AliPayServerpi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/alipay/AliPayServicerAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/cinema/CinemaServiceAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/cinema/OrderQueryVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/cinema/vo/CinemaQueryVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/cinema/vo/CinemaVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/cinema/vo/OrderQueryVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/film/FilmAsyncServiceApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/film/FilmServiceAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/film/vo/CatVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/film/vo/FilmDetailVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/film/vo/FilmServiceAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/film/vo/InfoRequstVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/order/OrderServiceAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/order/vo/OrderVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/user/UserAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/user/UserInfoModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/user/UserModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-api/src/main/java/com/stylefeng/guns/api/user/vo/UserInfoModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-cinema.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-cinema/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-cinema/src/main/java/com/stylefeng/guns/rest/CinemaApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-cinema/src/main/java/com/stylefeng/guns/rest/GunsRestServletInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-cinema/src/main/java/com/stylefeng/guns/rest/UserApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-cinema/src/main/java/com/stylefeng/guns/rest/common/aop/GlobalExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-cinema/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/MoocFieldTMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-cinema/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/mapping/MoocFieldTMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-cinema/src/main/java/com/stylefeng/guns/rest/modular/auth/validator/impl/DbValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-cinema/src/main/java/com/stylefeng/guns/rest/modular/cinema/service/DefaultCinemaServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-cinema/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-cinema/src/test/java/com/stylefeng/guns/generator/EntityGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-core/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-core/src/main/java/com/stylefeng/guns/core/base/controller/BaseController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-core/src/main/java/com/stylefeng/guns/core/base/tips/ErrorTip.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-core/src/main/java/com/stylefeng/guns/core/base/tips/SuccessTip.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-core/src/main/java/com/stylefeng/guns/core/base/tips/Tip.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-core/src/main/java/com/stylefeng/guns/core/config/DefaultFastjsonConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-core/src/main/java/com/stylefeng/guns/core/config/MultiDataSourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-core/src/main/java/com/stylefeng/guns/core/config/SingleDataSourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-core/src/main/java/com/stylefeng/guns/core/constant/RedisConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-core/src/main/java/com/stylefeng/guns/core/page/PageInfoBT.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-core/src/main/java/com/stylefeng/guns/core/util/MD5Util.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-core/src/main/java/com/stylefeng/guns/core/util/TokenBucket.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-core/src/main/java/com/stylefeng/guns/core/util/UUIDUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-film/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-film/src/main/java/com/stylefeng/guns/rest/FilmApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-film/src/main/java/com/stylefeng/guns/rest/GunsRestServletInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-film/src/main/java/com/stylefeng/guns/rest/UserApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-film/src/main/java/com/stylefeng/guns/rest/common/aop/GlobalExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-film/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/MoocActorTMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-film/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/MoocFilmTMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-film/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/mapping/MoocActorTMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-film/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/mapping/MoocFilmTMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-film/src/main/java/com/stylefeng/guns/rest/common/persistence/model/MoocBannerT.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-film/src/main/java/com/stylefeng/guns/rest/modular/film/service/DefaultFilmAsyncServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-film/src/main/java/com/stylefeng/guns/rest/modular/film/service/DefaultFilmServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-film/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-film/src/test/java/com/stylefeng/guns/generator/EntityGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/GatewayApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/GunsRestApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/common/CurrentUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/config/MybatisPlusConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/config/properties/JwtProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/Client.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/controller/AuthController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/filter/AuthFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/cinema/CinemaController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/cinema/vo/CinemaConditionResponseVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/cinema/vo/CinemaController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/cinema/vo/CinemaListResponseVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/example/ExampleController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/film/FilmController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/film/vo/FilmIndexVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/film/vo/FilmRequestVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/order/OrderController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/user/UserAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/user/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/user/UserImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/vo/ResponseVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-gateway/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-generator/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/main/java/com/stylefeng/guns/rest/FilmApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/main/java/com/stylefeng/guns/rest/GunsRestServletInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/main/java/com/stylefeng/guns/rest/common/aop/GlobalExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/MoocOrder2017TMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/MoocOrder2018TMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/MoocOrderTMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/mapping/MoocOrder2017TMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/mapping/MoocOrder2018TMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/mapping/MoocOrderTMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/main/java/com/stylefeng/guns/rest/common/persistence/model/MoocOrder2018T.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/main/java/com/stylefeng/guns/rest/common/util/FTPUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/main/java/com/stylefeng/guns/rest/modular/order/service/DefaultOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/main/java/com/stylefeng/guns/rest/modular/order/service/OrderServiceImpl2017.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/main/java/com/stylefeng/guns/rest/modular/order/service/OrderServiceImpl2018.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/main/java/com/stylefeng/guns/rest/modular/order/service/OrderServiceImpl2019.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/test/java/com/stylefeng/guns/GunsRestApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-order/src/test/java/com/stylefeng/guns/generator/EntityGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-rest/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-rest/src/main/java/com/stylefeng/guns/rest/modular/auth/util/JwtTokenUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-rest/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-user/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-user/src/main/java/com/stylefeng/guns/rest/UserApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-user/src/main/java/com/stylefeng/guns/rest/common/aop/GlobalExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-user/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/MoocUserTMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-user/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/mapping/UserMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-user/src/main/java/com/stylefeng/guns/rest/common/persistence/model/MoocUserT.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/user/LocalUserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/user/UserImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/user/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-user/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-user/src/test/java/com/stylefeng/guns/generator/EntityGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/guns-user/src/test/java/com/stylefeng/guns/rest/RedisTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../naan1993-guns-master/guns/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../netty-study/netty-multichat/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../netty-study/netty-multichat/src/main/java/com/hhf/nettymultichat/netty/chat/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../netty-study/netty-multichat/src/main/java/com/hhf/nettymultichat/netty/chat/WebSocketHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../school-bus/school-bus/guns-gateway/src/main/java/com/stylefeng/guns/rest/config/RedisConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spirngboot-dubbo/consumer/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spirngboot-dubbo/consumer/src/main/java/com/hhf/consumer/ConsumerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spirngboot-dubbo/consumer/src/main/java/com/hhf/consumer/ServerAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spirngboot-dubbo/consumer/src/main/java/com/hhf/consumer/quicksart/QuickstartConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spirngboot-dubbo/consumer/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spirngboot-dubbo/provider/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spirngboot-dubbo/provider/src/main/java/com/hhf/provider/ProviderApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spirngboot-dubbo/provider/src/main/java/com/hhf/provider/ServerAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spirngboot-dubbo/provider/src/main/java/com/hhf/provider/quickstart.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spirngboot-dubbo/provider/src/main/java/com/hhf/provider/quickstart/QuickstartServerImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spirngboot-dubbo/provider/src/main/java/com/hhf/provider/quickstart/ServerAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spirngboot-dubbo/provider/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-study/boot-04-admin/src/main/java/com/hhf/admin/controller/IndexController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/BaiduNetdiskDownload/打造仿猫眼项目 以Dubbo为核心解锁微服务视频教程/猫眼资料/coding-273/源码/影片模块/guns/guns-api/src/main/java/com/stylefeng/guns/api/film/vo/FilmVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/BaiduNetdiskDownload/打造仿猫眼项目 以Dubbo为核心解锁微服务视频教程/猫眼资料/coding-273/源码/影片模块/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/film/FilmController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/BaiduNetdiskDownload/打造仿猫眼项目 以Dubbo为核心解锁微服务视频教程/猫眼资料/coding-273/源码/支付模块/guns/guns-api/src/main/java/com/stylefeng/guns/api/cinema/vo/CinemaVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/BaiduNetdiskDownload/打造仿猫眼项目 以Dubbo为核心解锁微服务视频教程/猫眼资料/coding-273/源码/支付模块/guns/guns-order/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/BaiduNetdiskDownload/打造仿猫眼项目 以Dubbo为核心解锁微服务视频教程/猫眼资料/coding-273/源码/用户模块/guns/guns-gateway/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/BaiduNetdiskDownload/打造仿猫眼项目 以Dubbo为核心解锁微服务视频教程/猫眼资料/coding-273/源码/用户模块/guns/guns-user/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/BaiduNetdiskDownload/打造仿猫眼项目 以Dubbo为核心解锁微服务视频教程/猫眼资料/coding-273/源码/示例环境/分布式事务/springboot-dubbo/springboot-dubbo/consumer/src/main/java/com/mooc/jiangzh/dubbo/springboot/consumer/ConsumerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/BaiduNetdiskDownload/打造仿猫眼项目 以Dubbo为核心解锁微服务视频教程/猫眼资料/coding-273/源码/示例环境/分布式事务/springboot-dubbo/springboot-dubbo/consumer/src/main/java/com/mooc/jiangzh/dubbo/springboot/consumer/transaction/TransactionConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/BaiduNetdiskDownload/打造仿猫眼项目 以Dubbo为核心解锁微服务视频教程/猫眼资料/coding-273/源码/示例环境/分布式事务/springboot-dubbo/springboot-dubbo/privoder/src/main/java/com/mooc/jiangzh/dubbo/springboot/privoder/PrivoderApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/BaiduNetdiskDownload/打造仿猫眼项目 以Dubbo为核心解锁微服务视频教程/猫眼资料/coding-273/源码/示例环境/分布式事务/springboot-dubbo/springboot-dubbo/privoder/src/main/java/com/mooc/jiangzh/dubbo/springboot/privoder/transaction/TransactionServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/BaiduNetdiskDownload/打造仿猫眼项目 以Dubbo为核心解锁微服务视频教程/猫眼资料/coding-273/源码/示例环境/分布式事务/springboot-dubbo/springboot-dubbo/privoder/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/BaiduNetdiskDownload/打造仿猫眼项目 以Dubbo为核心解锁微服务视频教程/猫眼资料/coding-273/源码/示例环境/分布式事务/springboot-dubbo/springboot-dubbo/privoder/src/main/resources/tcc-transaction-dubbo.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/BaiduNetdiskDownload/打造仿猫眼项目 以Dubbo为核心解锁微服务视频教程/猫眼资料/coding-273/源码/示例环境/分布式事务/springboot-dubbo/springboot-dubbo/privoder/src/main/resources/tcc-transaction.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/BaiduNetdiskDownload/打造仿猫眼项目 以Dubbo为核心解锁微服务视频教程/猫眼资料/coding-273/源码/示例环境/分布式事务/tcc-transaction-master-1.2.x/tcc-transaction-master-1.2.x/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

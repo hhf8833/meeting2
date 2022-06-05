@@ -34,9 +34,8 @@ public class No_347_topKFrequent {
         PriorityQueue<Integer> pq = new PriorityQueue<Integer>((a,b)->{
             return numsMap.get(a)-numsMap.get(b);
         });
-        Set<Map.Entry<Integer,Integer>> en = numsMap.entrySet();
         for (Map.Entry<Integer, Integer> entry :
-                en) {
+                numsMap.entrySet()) {
             if (pq.size()<k){
                 pq.add(entry.getKey());
             }else {
@@ -59,6 +58,16 @@ public class No_347_topKFrequent {
     public void test(){
         int[] nums = new int[]{1,1,1,2,2,3};
         int[] res = topKFrequent(nums,2);
+        float f =1.0f;
+        int i =(int)f;
+        int ii =0;
+        float ff =ii;
         System.out.println(Arrays.toString(res));
+        Integer i1 =1;
+        Integer h1 =1;
+        System.out.println(i1==h1);
+        Class<No_0_Singleton> no_0_singletonClass = No_0_Singleton.class;
+        System.out.println(no_0_singletonClass.getName());
+
     }
 }

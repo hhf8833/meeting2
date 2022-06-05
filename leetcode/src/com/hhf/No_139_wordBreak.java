@@ -1,8 +1,8 @@
 package com.hhf;
 
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import org.junit.jupiter.api.Test;
+
+import java.util.*;
 
 /**
  * @author HP
@@ -20,7 +20,7 @@ import java.util.Set;
  * 循环找出第一个符合的字符串，然后再不断递归的找出其余部分，期间设置一个记录符用来判断这些是否被用过，用过就直接得出结果，减少重复的计算
  */
 public class No_139_wordBreak {
-/*    public boolean wordBreak(String s, List<String> wordDict) {
+    public boolean wordBreak1(String s, List<String> wordDict) {
         //将字典放在hash表中，这样方便查找,速度要比放在list中更快
         Set<String> wordDicSet =new HashSet<>(wordDict);
         //初始化转移方程
@@ -39,8 +39,8 @@ public class No_139_wordBreak {
             }
         }
         return dp[s.length()];
-    }*/
-    public boolean wordBreak(String s, List<String> wordDict) {
+    }
+    public boolean wordBreak2(String s, List<String> wordDict) {
         //将字典放在hash表中，这样方便查找,速度要比放在list中更快
         Set<String> wordDicSet =new HashSet<>(wordDict);
         //辅助数组，用来判断是否已经遍历过
@@ -48,6 +48,7 @@ public class No_139_wordBreak {
         return dfs(0,s,wordDicSet,visited);
     }
     public boolean dfs(int start ,String s ,Set<String> wordDicSet ,int[] visted){
+        List<Integer> list = new ArrayList<>();
         if (start==s.length()){
             return true;
         }
@@ -66,5 +67,36 @@ public class No_139_wordBreak {
         }
         visted[start] = -1;
         return false;
+    }
+
+    /***
+     *      "aaaaaaa"
+     *      ["aaaa","aaa"]
+     * 例如上面这个用例，每次遍历倒aaa的时候指针就会跳转，最好留下一个a导致结果错误
+     * @param s
+     * @param wordDict
+     * @return
+     */
+    public static boolean wordBreak(String s, List<String> wordDict) {
+        Set<String> dic = new HashSet<>(wordDict);
+        int i =0;
+        for(int j=0;j<s.length();j++){
+            if(dic.contains(s.substring(i,j+1))){
+                if(j==s.length()-1){
+                    return true;
+                }else{
+                    i=j+1;
+                }
+            }
+        }
+        return false;
+    }
+
+    @Test
+    public void test(){
+
+        String[] strings = new String[]{"aaaa","aaa"};
+        boolean wordBreak = wordBreak("aaaaaaa", Arrays.asList(strings));
+        System.out.println(wordBreak);
     }
 }

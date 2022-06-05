@@ -1,6 +1,9 @@
 package com.hhf;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
+import java.util.concurrent.ArrayBlockingQueue;
 
 public class No_0_sortConclusion {
     public static void main(String[] args) {
@@ -8,7 +11,22 @@ public class No_0_sortConclusion {
         partition(nums,0,nums.length-1);
         System.out.println(Arrays.toString(nums));
         mergeSort(nums);
-        System.out.println(Arrays.toString(nums));
+        System.out.println("mergeSort:"+Arrays.toString(nums));
+        List<Integer> list = new ArrayList<>();
+        list.add(1);
+        list.add(2);
+        list.add(3);
+        Integer[] integers = list.toArray(new Integer[0]);
+        System.out.println(Arrays.toString(integers));
+        String[] strs = new String[]{"asd","ftvv","agfrg",};
+        Arrays.sort(strs,(x,y)->{
+            return (x+y).compareTo(y+x);
+        });
+        System.out.println(Arrays.toString(strs));
+        String ss = "abcdefg";
+        char c = ss.charAt(3);
+        String s = "ss" + c;
+
     }
     //快速排序,时间复杂度为nlogn
     //每一趟排序，把比选定值index小的数字放在它的左边，比它大的值放在右边
@@ -17,25 +35,7 @@ public class No_0_sortConclusion {
             return;
         }
         int index = nums[start];
-/*      int low = start;
-        int high = end ;
-        //添加一个标识节点
-       while (low <high ){
-            while (low < high && nums[high]>index){
-                high--;
-            }
-            //low> high了，或者出现high位置小于indx的了
-            if (low <high){
-                //high的位置空出来，一会给low用
-                nums[low++]=nums[high];
-            }
-            while (low<high &&nums[low]<index){
-                low++;
-            }
-            if (low< high){
-                nums[high--]=nums[low];
-            }
-        }*/
+
         //这里采用快慢指针，来进行排序，上面的while复杂度高，注意指针的起始位置，最后位置
         int j = start;
         for (int i = start+1; i <= end; i++) {
@@ -48,6 +48,7 @@ public class No_0_sortConclusion {
         System.out.println("index:"+index+Arrays.toString(nums));
         partition(nums,start,j-1);
         partition(nums,j+1,end);
+
     }
 
 
@@ -72,7 +73,7 @@ public class No_0_sortConclusion {
         }
         int i = left;
         int j = mid+1;
-        int k =left;
+        /*int k =left;
         while (i<=mid &&j<=right){
             if (newArray[i]<=newArray[j]){
                 array[k++]=newArray[i++];
@@ -86,6 +87,16 @@ public class No_0_sortConclusion {
         }
         while (j<=right){
             array[k++]=newArray[j++];
+        }*/
+
+        for(int k = left ; k <= right; k++){
+            if(i == mid +1 ||  newArray[i] > newArray[j]){
+                array[k] = newArray[j++];
+            }else if(j ==right+1 || newArray[i] <= newArray[j]){
+                array[k] = newArray[i++];
+            }
         }
+
+
     }
 }

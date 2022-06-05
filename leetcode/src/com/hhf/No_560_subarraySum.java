@@ -32,8 +32,8 @@ public class No_560_subarraySum {
     }
     @Test
     public void test(){
-        int[] nums =new int[]{1,1,1};
-        int k = 2;
+        int[] nums =new int[]{3,4,7,2,-3,1,4,2};
+        int k = 7;
         int res = subarraySum(nums,k);
         System.out.println(res);
     }

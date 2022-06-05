@@ -36,6 +36,7 @@ public class No_437_pathSum {
         if (root==null){
             return;
         }
+
         dfs2(root,root.val);
         dfs1(root.left);
         dfs1(root.right);
@@ -71,6 +72,7 @@ class Solution2 {
         }
         currSum+=root.val;
         //如果存在currSum-targetSum对应的前缀和，则将其得出并加1，么有的话看为0
+        //如果前缀总和currSum，在节点A和节点B处相差target，则位于节点A和节点B之间的元素之和是target
         res += map.getOrDefault(currSum-targetSum,0);
         map.put(currSum,map.getOrDefault(currSum,0)+1);
         dfs(root.left,map,currSum,targetSum);

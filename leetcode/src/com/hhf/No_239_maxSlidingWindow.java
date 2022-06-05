@@ -2,10 +2,7 @@ package com.hhf;
 
 import org.junit.jupiter.api.Test;
 
-import java.util.Arrays;
-import java.util.Deque;
-import java.util.LinkedList;
-import java.util.PriorityQueue;
+import java.util.*;
 
 /**
  * @author HP
@@ -15,7 +12,7 @@ import java.util.PriorityQueue;
  * 返回滑动窗口中的最大值。
  *
  * 方法一
- * //采用优先队列，遇到队列头的为元素不在当前数组范围的话就弹出直到队首为范围内，
+ * //采用优先队列，队列中存一个数组（长度为2  0：实际值，1：index）遇到队列头的为元素不在当前数组范围的话就弹出直到队首为范围内，
  * 即便队列中有不在范围内的也没事，只要它不在堆头，那么就不会影响数组值，而即便在头我们有判断会对其弹出
  *
  * 方法二；单调递减队列
@@ -23,6 +20,7 @@ import java.util.PriorityQueue;
  * 之后检查队首元素是否在有效范围内，如果没有就出队，再看当前遍历的位置是否已经超过k了，超过的话就将当前队首（前面判断过肯定在范围内）写入结果数组中
  */
 public class No_239_maxSlidingWindow {
+    //优先队列
     public int[] maxSlidingWindow(int[] nums, int k) {
         PriorityQueue<int[]> pqueue = new PriorityQueue<>( (pair1,pair2)->{
             return pair1[0] != pair2[0] ? pair2[0] - pair1[0] : pair2[1] - pair1[1];
@@ -42,8 +40,12 @@ public class No_239_maxSlidingWindow {
         }
         return res;
     }
+    //方法二；单调递减队列
     public static  int[] maxSlidingWindow2(int[] nums, int k) {
-        Deque<Integer> queue =new LinkedList();
+        if (nums.length ==0){
+            return new int[0];
+        }
+        Deque<Integer> queue =new LinkedList<>();
         int n = nums.length;
         int[] res =new int[n-k+1];
         for (int i = 0; i < n; i++) {
@@ -52,9 +54,9 @@ public class No_239_maxSlidingWindow {
                 queue.pollLast();
             }
             //不小就加入形成单调递减队列
-            queue.addLast(i);
+            queue.offerLast(i);
             //队首没在范围内就不要了
-            if (queue.peekFirst()<=i-k){
+            while (queue.peekFirst()<=i-k){
                 queue.pollFirst();
             }
             //如果当前的已经超过k的话就要将当前队列头加入结果数组了
@@ -66,8 +68,16 @@ public class No_239_maxSlidingWindow {
     }
     @Test
     public void test(){
-        int[] nums =new int[]{1,3,-1,-3,5,3,6,7};
-        int [] res = maxSlidingWindow2(nums,3);
+        int[] nums =new int[0];
+        int [] res = maxSlidingWindow2(nums,0);
         System.out.println(Arrays.toString(res));
+        LinkedList<List<Integer>> listTotal = new LinkedList<>();
+        LinkedList<Integer> list = new  LinkedList<>();
+        list.add(1);
+        list.add(2);
+        LinkedList linkedList = new LinkedList(list);
+        listTotal.add(new LinkedList(list));
+        System.out.println(listTotal);
+
     }
 }

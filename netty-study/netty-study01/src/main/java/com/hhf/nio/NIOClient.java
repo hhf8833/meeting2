@@ -19,11 +19,13 @@ public class NIOClient {
 
             while (!socketChannel.finishConnect()) {
                 System.out.println("因为连接需要时间，客户端不会阻塞，可以做其它工作..");
+
             }
         }
 
         //...如果连接成功，就发送数据
         String str = "hello,尚硅谷~";
+        System.out.println(str);
         //Wraps a byte array into a buffer
         ByteBuffer buffer = ByteBuffer.wrap(str.getBytes());
         //发送数据，将 buffer 数据写入 channel
