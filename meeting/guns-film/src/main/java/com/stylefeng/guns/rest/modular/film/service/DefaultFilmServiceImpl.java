@@ -117,7 +117,7 @@ public class DefaultFilmServiceImpl implements FilmServiceAPI {
                     break;
             }
 
-            // 如果sourceId,yearId,catId 不为99 ,则表示要按照对应的编号进行查询
+            // 如果sourceId片源,yearId,catId 不为99 ,则表示要按照对应的编号进行查询
             if(sourceId != 99){
                 wrapper.eq("film_source",sourceId);
             }

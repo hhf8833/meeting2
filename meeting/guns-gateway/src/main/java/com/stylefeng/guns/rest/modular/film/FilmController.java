@@ -87,7 +87,7 @@ public class FilmController {
                     2、通过二分法查找
              */
             //将这个99这个单独拿出来
-            if(catVO.getCatId().equals("99")){
+            if("99".equals(catVO.getCatId())){
                 cat99 = catVO;
                 continue;
             }

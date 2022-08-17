@@ -46,7 +46,7 @@ public class UserController {
             }
         }else {
             return ResponseVo.serviceFail("用户名不能为空");
-        }
+        }  
     }
 
     @GetMapping("loginout")
