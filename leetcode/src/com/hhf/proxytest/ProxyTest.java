@@ -2,7 +2,9 @@ package com.hhf.proxytest;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Proxy;
+import java.util.Arrays;
 import java.util.Locale;
+import java.util.PriorityQueue;
 
 public class ProxyTest {
     public static void main(String[] args) {
@@ -26,6 +28,8 @@ public class ProxyTest {
         System.out.println( "A man, a plan, a canal: Panama".toLowerCase());
         System.out.println( "0P".toLowerCase());
         System.out.println( "A man, a plan, a canal: Panama".toUpperCase());
+        StringBuilder sb = new StringBuilder();
+
 
     }
 }

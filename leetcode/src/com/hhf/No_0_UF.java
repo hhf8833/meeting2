@@ -1,8 +1,12 @@
 package com.hhf;
 
+import java.util.HashMap;
+
 /**
  * @author HP
  * 并查集
+ *
+ * https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/UnionFind%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3.md
  */
 public class No_0_UF {
     //表示当前并查集的连通分量
@@ -23,6 +27,7 @@ public class No_0_UF {
         }
     }
     public void Union(int p,int q){
+
         //连接的时候要看他们所在的两个树的数量，大的去连小的
         int rootP = find(p);
         int rootQ = find(q);
@@ -31,11 +36,12 @@ public class No_0_UF {
         }
         // 小树接到大树下面，较平衡
         if (size[rootP]>size[rootQ]){
-            parents[rootP] = parents[rootQ];
-            size[rootQ]+=size[rootP];
-        }else {
-            parents[rootQ] = parents[rootP];
+            //p为大树
+            parents[rootQ] = rootP;
             size[rootP]+=size[rootQ];
+        }else {
+            parents[rootP] = rootQ;
+            size[rootQ]+=size[rootP];
         }
         count--;
     }

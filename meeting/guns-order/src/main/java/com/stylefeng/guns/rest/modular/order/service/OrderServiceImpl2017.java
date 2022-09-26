@@ -43,7 +43,7 @@ public class OrderServiceImpl2017 implements OrderServiceAPI {
     @Override
     public boolean isTrueSeats(String fieldId,  String seats) {
 
-        //根据对应的fieldId找到对应的座位位置图
+        //根据对应的fieldId找到对应的座位位置图  缓存中取
         String seatsPath = moocOrder2017TMapper.getSeatsByFieldId(fieldId);
         System.out.println("座位位置图是："+seatsPath);
         //读位置图，判断seats是否为真
@@ -160,6 +160,7 @@ public class OrderServiceImpl2017 implements OrderServiceAPI {
             log.error("查询已售座位错误，未传入任何场次");
             return "";
         }else {
+            //从缓存中获取得到的已卖座位，并不需要保证真正一致  因为只是读
             String soldSeatsByFildId = moocOrder2017TMapper.getSoldSeatsByFildId(fieldId);
             return soldSeatsByFildId;
         }

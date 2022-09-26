@@ -237,6 +237,11 @@ public class FilmController {
         //查询详细信息  dubbo异步获取
 
         //FilmDescVO filmDesc = filmAsyncServiceApi.getFilmDesc(filmId);
+        /**
+         * @Reference 中要设置async为true，其对应的接口才能使用异步调用，当调用异步接口函数之后紧跟着会获取对应的FutureAdapter,
+         *              并将其加入到context中，RpcContext.getContext()是 ThreadLocal 级别的，也就是如果一个线程调用了两次，第二次就会把第一次的异步结果给覆盖了，所以说我们每次调用之后都要先把Future取回来然后再发起下一次调用。
+         *              CompletableFuture方式：原理是代理，之后代理中判断如果是CompletableFuture，就设置为异步
+         */
         filmAsyncServiceApi.getFilmDesc(filmId);
         Future<FilmDescVO> filmDescVOFuture = RpcContext.getContext().getFuture();
         // 获取图片信息

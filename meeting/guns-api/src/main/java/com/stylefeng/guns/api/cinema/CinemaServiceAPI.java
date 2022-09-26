@@ -6,6 +6,7 @@ import com.stylefeng.guns.api.cinema.vo.*;
 import java.util.List;
 
 public interface CinemaServiceAPI {
+
     //1、根据CinemaQueryVO，查询影院列表
     Page<CinemaVO> getCinemas(CinemaQueryVO cinemaQueryVO);
 

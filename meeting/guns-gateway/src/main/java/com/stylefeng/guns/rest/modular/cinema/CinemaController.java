@@ -37,6 +37,7 @@ public class CinemaController {
     @GetMapping("getCinemas")
     public ResponseVo getCinemas(CinemaQueryVO cinemaQueryVO){
         try{
+
             //按照五个条件进行筛选
             Page<CinemaVO> cinemas = cinemaServiceAPI.getCinemas(cinemaQueryVO);
             //判断是否有满足条件的影院
@@ -122,7 +123,7 @@ public class CinemaController {
             FilmInfoVO filmInfoByFieldId = cinemaServiceAPI.getFilmInfoByFieldId(fieldId);
             HallInfoVO filmFieldInfo = cinemaServiceAPI.getFilmFieldInfo(fieldId);
 
-            // 造几个销售的假数据，后续会对接订单接口
+            // 已售座位 造几个销售的假数据，后续会对接订单接口
             // filmFieldInfo.setSoldSeats("1,2,3,4");
             filmFieldInfo.setSoldSeats(orderServiceAPI.getSoldSeatsByFildId(fieldId));
 
